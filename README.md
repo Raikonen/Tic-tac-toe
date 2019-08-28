@@ -1,9 +1,7 @@
 # Tic-Tac-Toe
 
-Tic-Tac-Toe App
-|-----|
-|![Tourney Code](assets/screenshots/landing_page.png)|
-|-----|
+|![Tic-Tac-Toe Board](assets/screenshots/board.png)|
+
 ## Getting Started
 
 1. Clone the project
@@ -15,5 +13,5 @@ Tic-Tac-Toe App
 
 ## Built With
 
-[React](https://reactjs.org/) - Main UI Framework
+[React](https://reactjs.org/) - Main UI Framework  
 [create-react-app](https://create-react-app.dev/) - Framework used to bootstrap project
