@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-|![Tic-Tac-Toe Board](assets/screenshots/board.png)|
+![Tic-Tac-Toe Board](assets/screenshots/board.png)
 
 ## Getting Started
 
